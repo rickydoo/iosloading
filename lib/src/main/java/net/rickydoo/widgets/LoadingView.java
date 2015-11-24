@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import net.rickydoo.widgets.iosloading.R;
+
 /**
  * Created by Ricky DOO on Nov. 24, 2015.
  */
@@ -22,6 +24,7 @@ public class LoadingView extends RelativeLayout {
 	}
 
 	private TextView loadingMessage;
+
 	public LoadingView(Context context, AttributeSet attrs, int defStyleAttr) {
 		super(context, attrs, defStyleAttr);
 
