@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">widgets</string>
+    <string name="loading_message">Loading&#8230;</string>
+</resources>
